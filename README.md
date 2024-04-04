@@ -1,2 +1,2 @@
 # SCM-PROJECT
-uhfhisdviosdnoivjdofjisjvosjiof
+This is our source code management project.
